@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Zhiad and I'm a Computer Science major at College of The Canyons
+I'm learning Python and Java and aspure to be a software engineer in the near future!
 <!--
 **ZhiadO/ZhiadO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
